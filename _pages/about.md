@@ -20,7 +20,9 @@ Prior to Yale, I graduated from UESTC in 2020. I did research assistant/internsh
 ## News
 
 ### 2024
+
 - Apr:  I had a talk in CoCoSyS.
+- Mar:  I passed my area exam and advanced to candidacy. 
 - Feb:  A paper about ANN-SNN conversion has been accepted by IJCV. 
 - Jan:  I received the 2023 Baidu PhD Fellowship (10 winners/year). 
 
