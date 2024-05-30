@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 
 I am a third-year Ph.D. candidate in the Electrical Engineering Department at Yale University. I am a member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priya Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ). 
 My research interests include efficient deep learning models and systems and biology-inspired artificial intelligence. 
