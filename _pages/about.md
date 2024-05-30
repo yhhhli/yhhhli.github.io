@@ -46,3 +46,18 @@ Prior to Yale, I graduated from UESTC in 2020. I did research assistant/internsh
    *Conference on Empirical Methods in Natural Language Processing (2023).*  
    [Paper Link](https://arxiv.org/pdf/2304.09145)  
    <br clear="left"/>
+
+3. <img src="../images/nips23.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+   **SEENN: Towards Temporal Spiking Early-Exit Neural Networks**  
+   Authors: **Yuhang Li**, Tamar Geller, Youngeun Kim, Priyadarshini Panda
+   *Conference on Neural Information Processing System (2023).*  
+   [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/c801e68207da477bbc44182b9fac1129-Paper-Conference.pdf)  
+   <br clear="left"/>
+
+4. <img src="../images/icml23.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+   **Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks**  
+   Authors: Shikuang Deng, Hao Lin, **Yuhang Li**, Shi Gu
+   *International Conference on Machine Learning (2023).*  
+   [Paper Link](https://proceedings.mlr.press/v202/deng23d/deng23d.pdf)  
+   <br clear="left"/>
+
