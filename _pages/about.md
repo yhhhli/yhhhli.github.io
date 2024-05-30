@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+## About
 
 I am a third-year Ph.D. candidate in the Electrical Engineering Department at Yale University. I am a member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priya Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ). 
 My research interests include efficient deep learning models and systems and biology-inspired artificial intelligence. 
@@ -30,3 +31,18 @@ Prior to Yale, I graduated from UESTC in 2020. I did research assistant/internsh
 - Aug:  I will serve as the Area Chair for EMNLP 2023. 
 - May:  A paper about SNN with surrogate module learning is accepted to ICML 2024. 
 
+## Selected Publications
+
+1. <img src="../images/ijcv24.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+   **Error-Aware Conversion from ANN to SNN via Post-training Parameter Calibration**  
+   Authors: **Yuhang Li**, Shikuang Deng, Xin Dong, Shi Gu 
+   *International Journal of Computer Vision (2024): 1-24.*  
+   [Paper Link](https://link.springer.com/article/10.1007/s11263-024-02046-2)  
+   <br clear="left"/>
+
+2. <img src="../images/emnlp23.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+   **Outlier Suppression+: Accurate Quantization of Large Language Models by Equivalent and Optimal Shifting and Scaling**  
+   Authors: Xiuying Wei, Yunchen Zhang, **Yuhang Li**, Xiangguo Zhang, Ruihao Gong, Jinyang Guo, Xianglong Liu
+   *Conference on Empirical Methods in Natural Language Processing (2023).*  
+   [Paper Link](https://arxiv.org/pdf/2304.09145)  
+   <br clear="left"/>
