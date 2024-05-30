@@ -33,28 +33,28 @@ Prior to Yale, I graduated from UESTC in 2020. I did research assistant/internsh
 
 ## Selected Publications
 
-1. <img src="../images/ijcv24.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+1. <img src="../images/ijcv24.png" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
    **Error-Aware Conversion from ANN to SNN via Post-training Parameter Calibration**  
    Authors: **Yuhang Li**, Shikuang Deng, Xin Dong, Shi Gu 
    *International Journal of Computer Vision (2024): 1-24.*  
    [Paper Link](https://link.springer.com/article/10.1007/s11263-024-02046-2)  
    <br clear="left"/>
 
-2. <img src="../images/emnlp23.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+2. <img src="../images/emnlp23.png" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
    **Outlier Suppression+: Accurate Quantization of Large Language Models by Equivalent and Optimal Shifting and Scaling**  
    Authors: Xiuying Wei, Yunchen Zhang, **Yuhang Li**, Xiangguo Zhang, Ruihao Gong, Jinyang Guo, Xianglong Liu
    *Conference on Empirical Methods in Natural Language Processing (2023).*  
    [Paper Link](https://arxiv.org/pdf/2304.09145)  
    <br clear="left"/>
 
-3. <img src="../images/nips23.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+3. <img src="../images/nips23.png" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
    **SEENN: Towards Temporal Spiking Early-Exit Neural Networks**  
    Authors: **Yuhang Li**, Tamar Geller, Youngeun Kim, Priyadarshini Panda
    *Conference on Neural Information Processing System (2023).*  
    [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/c801e68207da477bbc44182b9fac1129-Paper-Conference.pdf)  
    <br clear="left"/>
 
-4. <img src="../images/icml23.pdf" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
+4. <img src="../images/icml23.png" alt="Thumbnail" width="100" align="left" style="margin-right: 10px;">
    **Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks**  
    Authors: Shikuang Deng, Hao Lin, **Yuhang Li**, Shi Gu
    *International Conference on Machine Learning (2023).*  
