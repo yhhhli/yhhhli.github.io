@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-##
 
 I am a third-year Ph.D. candidate in the Electrical Engineering Department at Yale University. I am a member of [Intelligent Computing Lab](https://intelligentcomputinglab.yale.edu), advised by Prof. [Priya Panda](https://scholar.google.com/citations?user=qA5WsYUAAAAJ). 
 My research interests include efficient deep learning models and systems and biology-inspired artificial intelligence. 
@@ -54,24 +53,10 @@ Prior to Yale, I graduated from UESTC in 2020. I did research assistant/internsh
    [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/c801e68207da477bbc44182b9fac1129-Paper-Conference.pdf)  
    <br clear="left"/>
 
- <img src="../images/icml23.png" alt="Thumbnail" width="300" align="left" style="margin-right: 10px;">
-   **Surrogate Module Learning: Reduce the Gradient Error Accumulation in Training Spiking Neural Networks**  
-   Authors: Shikuang Deng, Hao Lin, **Yuhang Li**, Shi Gu
-   *International Conference on Machine Learning (2023).*  
-   [Paper Link](https://proceedings.mlr.press/v202/deng23d/deng23d.pdf)  
-   <br clear="left"/>
-
- <img src="../images/mlsys.png" alt="Thumbnail" width="300" align="left" style="margin-right: 10px;">
-   **SysNoise: Exploring and Benchmarking Training-Deployment System Inconsistency**  
-   Authors: Yan Wang, **Yuhang Li**, Ruihao Gong, Aishan Liu, Jian Hu, Yongqiang Yao, Yunchen Zhang, Fengwei Yu, Xianglong Liu
-   *Proceedings of Machine Learning and Systems (2023).*  
-   [Paper Link](https://proceedings.mlsys.org/paper_files/paper/2023/file/842bb98e13307da899490002bf2c693f-Paper-mlsys2023.pdf)  
-   <br clear="left"/>
-
  <img src="../images/eccv22.png" alt="Thumbnail" width="300" align="left" style="margin-right: 10px;">
    **Neuromorphic Data Augmentation for Training Spiking Neural Networks**  
    Authors: **Yuhang Li**, Youngeun Kim, Hyoungseob Park, Tamar Geller, Priyadarshini Panda
-   *European Conference on Computer Vision (2022).*  
+   *European Conference on Computer Vision (2022).* 
    [Paper Link](https://arxiv.org/pdf/2203.06145)  
    <br clear="left"/>
 
